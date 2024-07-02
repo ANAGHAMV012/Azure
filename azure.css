@@ -434,7 +434,7 @@ nav ul{
     border-bottom: 1px solid  #bdc5d2;
 }
 .side-image{
-    background-image: url(images/Desktop-Solutions-Featured-Tab1-VideoThumbUpdate.avif);
+    background-image: url("https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Desktop-Solutions-Featured-Tab1-VideoThumbUpdate?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1312&hei=1056&qlt=100&fmt=png-alpha&fit=constrain");
     background-repeat:no-repeat ;
     background-size: cover;
     background-position: center;
@@ -549,7 +549,7 @@ nav ul{
     flex-wrap: wrap;
 }
 .section-master{
-    background-image: url(images/mast.avif);
+    background-image: url("https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/product-background_desktop_homepage?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=1129&qlt=100&fmt=png-alpha&fit=constrain");
 }
 .masterA, .step2{
     margin-top: 2rem;
@@ -887,7 +887,7 @@ nav ul{
     background-color: (255, 255, 255, 0.6);
 }
 .optimize{
-    background-image: url(images/opti1.avif);
+    background-image: url("https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/resources-background_desktop@2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=768&qlt=85&fmt=png-alpha&fit=constrain");
     background-position: center;
     background-size: cover;
 }
@@ -976,7 +976,7 @@ nav ul{
 .global{
     background-position: center;
     background-size: cover;
-    background-image: url(images/Desktop-AzureRegions-2x.avif);
+    background-image: url("https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Desktop-AzureRegions-2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=3200&hei=983&qlt=95&fmt=png-alpha&fit=constrain");
     object-fit: cover;
     width: 100%;
     height: 100%;
@@ -1668,7 +1668,7 @@ nav ul li{
     text-wrap: nowrap;
 }
 .optimize{
-    background-image: url(images/opti1.avif);
+    background-image: url("https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/resources-background_desktop@2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=768&qlt=85&fmt=png-alpha&fit=constrain");
 }
 .button-group a{
     width: 100%;
@@ -1849,10 +1849,6 @@ nav ul li a{
     background-color: #89C402;
     border-radius: 8px;
     padding: 12px;
-}
-.Asub-sub{
-    padding-left: 0;
-    padding-right: 0;
 }
 .sectionB-sub{
     color: #17253D;
@@ -5214,7 +5210,7 @@ nav ul li a{
     margin-top: 2rem;
 }
 .fea{
-    background-color: transparent;
+    background-color: #005597;
 }
 .cs-left-dwn2{
     margin-top: 32px;
@@ -5325,4 +5321,9 @@ nav ul{
     padding-top: 8px;
     padding-right: 8px;
 }
+}
+
+
+.no-bg{
+    background-color: transparent;
 }
